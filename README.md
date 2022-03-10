@@ -1,6 +1,6 @@
 # First-Mobile-Responsive
 
-This is my first mobile responsive design only using HTML and CSS. 
+This is my first mobile responsive design. 
 
 I created this on my first course, and I tried to make the most of my knowledge using HTML and CSS.
 
